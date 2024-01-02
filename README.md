@@ -30,7 +30,7 @@ This code is provided as-is, without any warranty. Use it at your own risk.
 
 ## Author
 
-Hamed Valae
+Hamed Valaei
 
 
 ## Acknowledgments
